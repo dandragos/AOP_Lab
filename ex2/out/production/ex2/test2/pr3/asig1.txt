@@ -1,0 +1,3 @@
+RCA,Ionut,4000,Bucuresti
+RCA,Marinela,2000,Bucuresti
+Auto,Cosma,4000,Bucuresti

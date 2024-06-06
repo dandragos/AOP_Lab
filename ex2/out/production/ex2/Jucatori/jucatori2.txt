@@ -1,0 +1,5 @@
+Juan Martin del Potro,Argentina,6,8500,14
+Dominic Thiem,Austria,7,8000,13
+Alexander Zverev,Elvetia,8,7500,12
+Marin Cilic,Romania,9,7000,11
+Kevin Anderson,Africa de Sud,10,6500,10
